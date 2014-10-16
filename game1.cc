@@ -26,6 +26,7 @@ int read_keybord();
 int main()
 {
   int n=1;
+  int g=9;
   int key;
   bool descente=false;
   do
